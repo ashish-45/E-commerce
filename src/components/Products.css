@@ -1,0 +1,27 @@
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
+
+.products{
+    position: relative;
+}
+
+.hot{
+    position: absolute;
+    top: 0;
+    background-color: goldenrod;
+    padding: 5px 10px;
+    left: 0px;
+    color: white;
+
+}
+.new{
+    position: absolute;
+    top: 0;
+    background-color: red;
+    padding: 5px 10px;
+    left: 0px;
+    color: white;
+}

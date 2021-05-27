@@ -1,0 +1,13 @@
+.fa-shopping-cart{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cart-count{
+    display: inline-block;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background-color: cadetblue;
+    font-weight: bold;
+}
